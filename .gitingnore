@@ -6,3 +6,11 @@ node_modules
 .vscode/
 notes/
 **/*-todo.md
+
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
